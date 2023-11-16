@@ -1,0 +1,23 @@
+img {
+  max-width: 100%;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+  padding-top: 25px;
+  flex-wrap: wrap;
+}
+
+.card {
+  width: 50%;
+  font-size: 12px;
+}
+  img {
+    width: 20%;
+  }
